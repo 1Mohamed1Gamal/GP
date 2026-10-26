@@ -1,0 +1,47 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace = "com.example.sama3ly"
+    compileSdk = 35 // Ensure this is a valid integer
+
+    ndkVersion = "25.1.8937393"
+
+    compileOptions {
+        coreLibraryDesugaringEnabled = true
+        sourceCompatibility = JavaVersion.VERSION_17 // ✅ Updated
+        targetCompatibility = JavaVersion.VERSION_17 // ✅ Updated
+    }
+
+    kotlinOptions {
+        jvmTarget = "17" // ✅ Updated
+    }
+
+    defaultConfig {
+        applicationId = "com.example.sama3ly"
+        minSdk = 24
+        targetSdk = 34 // Ensure this is a valid integer
+        versionCode = 1
+        versionName = "1.0"
+        multiDexEnabled = true
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.debug
+        }
+    }
+}
+
+// ✅ Move dependencies OUTSIDE the android {} block
+dependencies {
+    implementation 'androidx.core:core-ktx:1.12.0'
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.3") // ✅ Correct placement
+}
+
+flutter {
+    source = "../.."
+}

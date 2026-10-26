@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+ios/Pods/
+android/local.properties
+google-services.json
+GoogleService-Info.plist

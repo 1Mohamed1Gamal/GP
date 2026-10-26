@@ -1,0 +1,406 @@
+Dog  
+Cat  
+Elephant  
+Tiger  
+Lion  
+Cheetah  
+Leopard  
+Jaguar  
+Panther  
+Cougar  
+Wolf  
+Fox  
+Hyena  
+Bear  
+Polar Bear  
+Grizzly Bear  
+Panda  
+Koala  
+Kangaroo  
+Wallaby  
+Sloth  
+Armadillo  
+Anteater  
+Otter  
+Beaver  
+Squirrel  
+Chipmunk  
+Hedgehog  
+Porcupine  
+Rabbit  
+Hare  
+Guinea Pig  
+Hamster  
+Chinchilla  
+Mouse  
+Rat  
+Mole  
+Weasel  
+Ferret  
+Badger  
+Skunk  
+Raccoon  
+Meerkat  
+Giraffe  
+Zebra  
+Hippopotamus  
+Rhinoceros  
+Buffalo  
+Bison  
+Antelope  
+Deer  
+Moose  
+Elk  
+Caribou  
+Gazelle  
+Sheep  
+Goat  
+Cow  
+Bull  
+Horse  
+Donkey  
+Mule  
+Camel  
+Llama  
+Alpaca  
+Pig  
+Wild Boar  
+Crocodile  
+Alligator  
+Turtle  
+Tortoise  
+Lizard  
+Gecko  
+Iguana  
+Chameleon  
+Komodo Dragon  
+Snake  
+Python  
+Boa Constrictor  
+Cobra  
+Viper  
+Anaconda  
+Frog  
+Toad  
+Newt  
+Salamander  
+Axolotl  
+Octopus  
+Squid  
+Cuttlefish  
+Nautilus  
+Jellyfish  
+Starfish  
+Seahorse  
+Coral  
+Sea Urchin  
+Sea Cucumber  
+Lobster  
+Crab  
+Shrimp  
+Krill  
+Clam  
+Oyster  
+Mussel  
+Scallop  
+Snail  
+Slug  
+Worm  
+Leech  
+Earthworm  
+Caterpillar  
+Butterfly  
+Moth  
+Bee  
+Wasp  
+Hornet  
+Ant  
+Termite  
+Beetle  
+Ladybug  
+Dragonfly  
+Damselfly  
+Grasshopper  
+Cricket  
+Locust  
+Stick Insect  
+Mantis  
+Cockroach  
+Flea  
+Tick  
+Louse  
+Spider  
+Tarantula  
+Scorpion  
+Centipede  
+Millipede  
+Barnacle  
+Plankton  
+Kraken (Mythological)  
+Phoenix (Mythological)  
+Unicorn (Mythological)  
+Pegasus (Mythological)  
+Griffin (Mythological)  
+Hippogriff (Mythological)  
+Basilisk (Mythological)  
+Wyvern (Mythological)  
+Dragon (Mythological)  
+Phoenix (Mythological)  
+Kraken (Mythological)  
+Dodo (Extinct)  
+Mammoth (Extinct)  
+Saber-toothed Tiger (Extinct)  
+Dinosaur (Extinct)  
+Velociraptor (Extinct)  
+Tyrannosaurus Rex (Extinct)  
+Triceratops (Extinct)  
+Stegosaurus (Extinct)  
+Brachiosaurus (Extinct)  
+Pterodactyl (Extinct)  
+Archaeopteryx (Extinct)  
+Blue Whale  
+Humpback Whale  
+Orca  
+Dolphin  
+Narwhal  
+Beluga Whale  
+Manatee  
+Dugong  
+Walrus  
+Sea Lion  
+Seal  
+Penguin  
+Albatross  
+Seagull  
+Pelican  
+Flamingo  
+Swan  
+Duck  
+Goose  
+Eagle  
+Hawk  
+Falcon  
+Owl  
+Vulture  
+Crow  
+Raven  
+Magpie  
+Parrot  
+Cockatoo  
+Macaw  
+Canary  
+Finch  
+Sparrow  
+Robin  
+Blue Jay  
+Woodpecker  
+Hummingbird  
+Peacock  
+Pigeon  
+Dove  
+Turkey  
+Chicken  
+Rooster  
+Quail  
+Ostrich  
+Emu  
+Cassowary  
+Kiwi  
+Barn Owl  
+Snowy Owl  
+Great Horned Owl  
+Red-tailed Hawk  
+Bald Eagle  
+Golden Eagle  
+Peregrine Falcon  
+Kestrel  
+Secretary Bird  
+Shoebill Stork  
+Hornbill  
+Kingfisher  
+Lyrebird  
+Mockingbird  
+Nightingale  
+Starling  
+Cuckoo  
+Swallow  
+Warbler  
+Tanager  
+Weaverbird  
+Tern  
+Puffin  
+Harpy Eagle  
+Frigatebird  
+Cormorant  
+Anhinga  
+Gannet  
+Booby  
+Grebe  
+Rail  
+Bittern  
+Heron  
+Egret  
+Ibis  
+Spoonbill  
+Stork  
+Crane  
+Bustard  
+Pheasant  
+Grouse  
+Ptarmigan  
+Partridge  
+Buttonquail  
+Jacana  
+Sunbird  
+Bowerbird  
+Cuckooshrike  
+Honeyguide  
+Drongo  
+Paradise Flycatcher  
+Treecreeper  
+Nuthatch  
+Wren  
+Dipper  
+Thrush  
+Shrike  
+Vireo  
+Waxwing  
+Babbler  
+Tanager  
+Oriole  
+Cardinal  
+Bunting  
+Grosbeak  
+Crossbill  
+Siskin  
+Goldfinch  
+Sparrowhawk  
+Osprey  
+Condor  
+Caracara  
+Kite  
+Merlin  
+Gyrfalcon  
+Jackal  
+Dingo  
+Wolverine  
+Bobcat  
+Lynx  
+Snow Leopard  
+Clouded Leopard  
+Siberian Tiger  
+Bengal Tiger  
+African Lion  
+Mountain Lion  
+Jaguarundi  
+Ocelot  
+Margay  
+Serval  
+Fossa  
+Tasmanian Devil  
+Aardvark  
+Pangolin  
+Okapi  
+Tapir  
+Narwhal
+The cat sleeps on the windowsill.  
+Elephants use their trunks to drink water.  
+A cheetah is the fastest land animal.  
+Dolphins communicate using clicks and whistles.  
+The parrot can mimic human speech.  
+Owls are nocturnal hunters.  
+Tigers have unique stripe patterns.  
+The honeybee plays a crucial role in pollination.  
+Penguins huddle together to stay warm.  
+A chameleon can change its color to blend in.  
+The octopus is highly intelligent and can solve puzzles.  
+Humpback whales sing complex songs.  
+A dog wags its tail when happy.  
+Crows can recognize human faces.  
+Bats use echolocation to navigate in the dark.  
+A peacock spreads its feathers in a dazzling display.  
+The horse galloped across the open field.  
+Seahorses are the only species where males give birth.  
+A lion’s roar can be heard from miles away.  
+The giraffe has the longest neck of any animal.  
+Beavers build dams to create ponds.  
+A camel stores fat, not water, in its humps.  
+A spider weaves a web to catch prey.  
+A mother bear fiercely protects her cubs.  
+Jellyfish have no brains or hearts.  
+A hummingbird can flap its wings incredibly fast.  
+Wolves hunt in coordinated packs.  
+The komodo dragon has deadly saliva.  
+Some frogs can secrete toxic substances as a defense.  
+Ravens are capable of using tools.  
+Ants work together to carry food back to their colony.  
+Sharks have rows of regenerating teeth.  
+Male penguins take care of the eggs.  
+An armadillo can roll into a ball when threatened.  
+A woodpecker pecks at tree bark to find insects.  
+The snow leopard is an expert at camouflage.  
+A firefly produces light through bioluminescence.  
+The platypus is one of the few egg-laying mammals.  
+A snake sheds its skin as it grows.  
+A rabbit twitches its nose constantly.  
+The koala sleeps for up to 20 hours a day.  
+The Arctic fox's fur changes color with the seasons.  
+Orcas, also known as killer whales, hunt in pods.  
+Some birds can navigate thousands of miles during migration.  
+A walrus uses its tusks to climb onto ice.  
+A kangaroo can jump long distances using its strong legs.  
+Bees dance to communicate the location of flowers.  
+A scorpion uses its tail to inject venom into prey.  
+The eagle has incredible eyesight.  
+Sea turtles return to the same beach to lay eggs.  
+A leopard is an expert tree climber.  
+The anaconda is one of the largest snakes in the world.  
+Flamingos get their pink color from their diet.  
+A fox uses its bushy tail for balance.  
+A mole can dig tunnels very quickly.  
+The meerkat stands on its hind legs to keep watch.  
+A butterfly undergoes metamorphosis from a caterpillar.  
+Male lions defend their pride while females hunt.  
+An octopus can squeeze through very small gaps.  
+Some lizards can regrow their tails if lost.  
+A tarantula uses its fangs to inject venom.  
+Ducks have waterproof feathers.  
+A pigeon can find its way home from great distances.  
+The electric eel generates electricity to stun prey.  
+A starfish can regenerate lost arms.  
+Polar bears are strong swimmers.  
+A hawk swoops down to catch its prey.  
+The honey badger is known for its fearless nature.  
+A tortoise can live for over a hundred years.  
+The narwhal has a long, spiral tusk.  
+Cows have four stomach compartments.  
+The poison dart frog has vibrant, warning colors.  
+An owl can turn its head almost all the way around.  
+The gazelle is known for its speed and agility.  
+A dog can be trained to detect certain diseases.  
+Puffins are excellent divers.  
+A bat is the only flying mammal.  
+Some whales can hold their breath for over an hour.  
+The ibex is an expert at climbing steep cliffs.  
+A goose flies in a V formation for efficiency.  
+Caterpillars eat constantly before turning into butterflies.  
+Horses communicate through body language.  
+The axolotl can regrow limbs.  
+Sea otters use rocks to crack open shells.  
+A lynx has large paws that help it walk on snow.  
+Some birds can recognize themselves in a mirror.  
+A stingray buries itself in sand to hide.  
+A squirrel buries nuts for winter but sometimes forgets them.  
+A skunk sprays a strong-smelling liquid for defense.  
+The quokka is known for its seemingly happy expression.  
+The black mamba is one of the fastest snakes.  
+Some fish can glow in the dark.  
+A crow can solve complex problems.  
+The bald eagle is a symbol of strength and freedom.  
+A cheetah's tail helps it balance when running at high speeds.  
+A roadrunner can run faster than a human.  
+Dolphins play and surf in waves.  
+The giant squid remains largely a mystery to scientists.  
+A ferret loves to explore and hide objects.  
+Some crabs can walk sideways.  
+Owls have silent flight, making them excellent hunters.

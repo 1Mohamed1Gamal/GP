@@ -1,0 +1,2 @@
+/Users/mohamedgamal/Desktop/GP/sam3ly/android/app/.cxx/Debug/1g3u1uo2/x86/CMakeFiles/edit_cache.dir
+/Users/mohamedgamal/Desktop/GP/sam3ly/android/app/.cxx/Debug/1g3u1uo2/x86/CMakeFiles/rebuild_cache.dir

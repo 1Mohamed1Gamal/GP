@@ -1,0 +1,400 @@
+Air conditioner
+Air freshener
+Alarm system
+Apartment
+Apron
+Armchair
+Attic
+Baking tray
+Balcony
+Bar stool
+Barbecue
+Basement
+Basket
+Bath mat
+Bathrobe
+Bathroom
+Bathtub
+Beam
+Bed
+Bedroom
+Bench
+Birdhouse
+Blanket
+Blender
+Blender
+Book
+Bookshelf
+Bottle opener
+Bowl
+Brick
+Broom
+Broom
+Brush
+Bucket
+Bucket
+Bungalow
+Cabin
+Cabinet
+Can opener
+Candle
+Carpet
+Ceiling
+Ceiling fan
+Cement
+Chair
+Chandelier
+Chimney
+Chopping board
+Circuit breaker
+Cleaning cloth
+Clock
+Closet
+Closet
+Clothesline
+Coat rack
+Coffee maker
+Coffee table
+Colander
+Column
+Comb
+Concrete
+Conditioner
+Corridor
+Cottage
+Cotton swabs
+Couch
+Cup
+Cupboard
+Curtain
+Cushion
+Cutting board
+Deadbolt
+Deck
+Den
+Dental floss
+Desk
+Detergent
+Dining room
+Dining table
+Dish rack
+Dish soap
+Dishwasher
+Dishwashing liquid
+Disinfectant
+Door
+Door frame
+Door lock
+Doorbell
+Doormat
+Drain
+Dresser
+Driveway
+Drywall
+Duplex
+Duster
+Dustpan
+Egg beater
+Emergency exit
+Entryway
+Fan
+Fan
+Farmhouse
+Faucet
+Fence
+Fence
+Fire alarm
+Fire extinguisher
+Fireplace
+First aid kit
+Floor
+Floor polish
+Flowerbed
+Flowerpot
+Fork
+Foundation
+Freezer
+Fridge
+Front door
+Frying pan
+Fuse box
+Garage
+Garden
+Garden hose
+Gate
+Glass
+Glass cleaner
+Gloves
+Grater
+Greenhouse
+Gutter
+Hairbrush
+Hairdryer
+Hallway
+Hammock
+Hand towel
+Hanger
+Heater
+Hedge
+Insulation
+Iron
+Jar
+Joist
+Kettle
+Key
+Keyhole
+Kitchen
+Knife
+Ladle
+Lamp
+Lampshade
+Laptop
+Laundry room
+Lawn
+Lawn mower
+Light switch
+Lightbulb
+Lintel
+Living room
+Lock
+Loft
+Mailbox
+Mansion
+Marble
+Mat
+Measuring cup
+Microwave
+Microwave
+Mirror
+Mirror
+Mixer
+Mobile home
+Mop
+Mop
+Motion sensor
+Mouthwash
+Mug
+Mug
+Nail clippers
+Napkin
+Newspaper
+Oven
+Oven mitt
+Paint
+Painting
+Paneling
+Pantry
+Paper towel
+Pathway
+Patio
+Patio furniture
+Peeler
+Peephole
+Penthouse
+Photo frame
+Picture frame
+Pillow
+Plaster
+Plate
+Plunger
+Plywood
+Pond
+Porch
+Porch swing
+Poster
+Pot
+Pressure cooker
+Radiator
+Razor
+Recliner
+Refrigerator
+Remote control
+Rock garden
+Rocking chair
+Rolling pin
+Roof
+Roof tiles
+Row house
+Rug
+Rug
+Saucepan
+Saucer
+Screws
+Scrubber
+Security camera
+Shampoo
+Shed
+Shelf
+Shingles
+Shower
+Shower curtain
+Siding
+Sieve
+Sink
+Smoke detector
+Soap
+Soap dish
+Sofa
+Spatula
+Speaker
+Sponge
+Sponge
+Spoon
+Sprinkler
+Sprinkler system
+Stain remover
+Staircase
+Stool
+Stove
+Strainer
+Studio
+Studs
+Study
+Sugar bowl
+Sunroom
+Surveillance system
+Swimming pool
+Table
+Tablecloth
+Tea kettle
+Teapot
+Television
+Terrace
+Thermos
+Tiles
+Timber
+Tissues
+Tissues
+Toaster
+Toilet
+Toilet brush
+Toilet paper
+Tongs
+Tool shed
+Toothbrush
+Toothpaste
+Towel
+Towel rack
+Townhouse
+Trash can
+Tray
+Treehouse
+Umbrella stand
+Vacuum cleaner
+Vacuum cleaner
+Vase
+Veranda
+Walkway
+Wall
+Wallpaper
+Wallpaper
+Wardrobe
+Washing machineAlarm clock
+Washing powder
+Watering can
+Wheelbarrow
+Whisk
+Window
+Window blinds
+Window frame
+A house is more than just a place to live.
+Are utilities included in the rent?
+Does the house have a basement?
+Does the house have a security system?
+Does the house have central heating and air conditioning?
+How many bedrooms does the house have?
+How old is the house?
+I prefer a house with a fenced yard.
+I prefer a house with a modern design.
+I prefer a house with a pool.
+I want a house with a big kitchen.
+I want a house with a home office.
+I want a house with a large master bedroom.
+I want a house with a two-car garage.
+I’d like a house with a fireplace.
+I’d like a house with a view of the mountains.
+I’d like a house with a walk-in closet.
+I’m cooking dinner in the kitchen.
+I’m working from home in my office.
+Is the house close to public transportation?
+Is the house furnished or unfurnished?
+Is the house in a safe neighborhood?
+Is the house pet-friendly?
+It’s a two-story house with a large backyard.
+The backyard has a patio and a barbecue area.
+The basement is finished and can be used as a playroom.
+The dog is sleeping on the porch.
+The family is gathered in the dining room.
+The house comes fully furnished.
+The house doesn’t get enough sunlight.
+The house feels like a home.
+The house has a beautiful garden.
+The house has a cozy atmosphere.
+The house has a cracked foundation.
+The house has a mold problem.
+The house has a no-pets policy.
+The house has a plumbing issue.
+The house has been on the market for three months.
+The house has hardwood floors throughout.
+The house has three bedrooms and two bathrooms.
+The house is a fixer-upper.
+The house is a place to relax and unwind.
+The house is a reflection of our personality.
+The house is available for rent starting next month.
+The house is close to schools and parks.
+The house is energy-efficient.
+The house is filled with memories.
+The house is in a flood zone.
+The house is in a gated community.
+The house is located in a quiet neighborhood.
+The house is on the market for $300,000.
+The house is painted white with blue shutters.
+The house is priced below market value.
+The house is surrounded by tall trees.
+The house is the most expensive purchase we’ll ever make.
+The house is too expensive for our budget.
+The house is too far from my workplace.
+The house is too noisy because of the traffic.
+The house is too old and needs too many repairs.
+The house is too small for our family.
+The house needs a deep cleaning.
+The house needs a new HVAC system.
+The house needs pest control treatment.
+The house needs some renovations.
+The kids are playing in the backyard.
+The kitchen is modern and fully equipped.
+The landlord takes care of all repairs.
+The lawn needs to be mowed.
+The master bedroom has a walk-in closet.
+The rent for the house is $1,500 per month.
+The rent includes utilities and internet.
+The roof is made of red tiles.
+The roof of the house needs repairs.
+The windows let in a lot of natural light.
+There’s a front porch with a swing.
+There’s a garage that fits two cars.
+There’s a spacious living room with a fireplace.
+There’s no place like home.
+We need to clean the gutters on the house.
+We signed a one-year lease for the house.
+We’re applying for a mortgage to buy the house.
+We’re decorating the house for the holidays.
+We’re fixing the leaky faucet in the bathroom.
+We’re gardening in the front yard.
+We’re having a barbecue in the backyard.
+We’re hosting a dinner party at our house.
+We’re hosting an open house this weekend.
+We’re installing a new fence around the house.
+We’re looking for a house to rent with a yard.
+We’re looking to buy a house in the suburbs.
+We’re moving into a new house next week.
+We’re negotiating the price of the house.
+We’re painting the exterior of the house.
+We’re planning to renovate the house next year.
+We’re renting a house near the city center.
+We’re replacing the windows in the house.
+We’re saving up to buy our dream house.
+We’re selling our house to downsize.
+We’re sharing the house with roommates.
+We’re watching a movie in the living room.
+

@@ -1,0 +1,528 @@
+Apple  
+Banana  
+Orange  
+Grapes  
+Mango  
+Pineapple  
+Strawberry  
+Blueberry  
+Raspberry  
+Watermelon  
+Peach  
+Plum  
+Cherry  
+Pear  
+Lemon  
+Lime  
+Coconut  
+Avocado  
+Papaya  
+Pomegranate  
+Kiwi  
+Fig  
+Date  
+Guava  
+Blackberry  
+Cranberry  
+Apricot  
+Melon  
+Tomato  
+Cucumber  
+Carrot  
+Potato  
+Sweet Potato  
+Onion  
+Garlic  
+Ginger  
+Lettuce  
+Spinach  
+Broccoli  
+Cauliflower  
+Cabbage  
+Celery  
+Zucchini  
+Eggplant  
+Bell Pepper  
+Chili Pepper  
+Pumpkin  
+Radish  
+Beetroot  
+Turnip  
+Peas  
+Green Beans  
+Mushroom  
+Corn  
+Asparagus  
+Leek  
+Artichoke  
+Okra  
+Brussels Sprout  
+Cilantro  
+Parsley  
+Basil  
+Rosemary  
+Thyme  
+Oregano  
+Dill  
+Mint  
+Sage  
+Chives  
+Rice  
+Pasta  
+Bread  
+Bagel  
+Croissant  
+Baguette  
+Toast  
+Cereal  
+Oatmeal  
+Noodles  
+Pizza  
+Sandwich  
+Burger  
+Hot Dog  
+Taco  
+Burrito  
+Wrap  
+Quesadilla  
+Pancake  
+Waffle  
+Muffin  
+Donut  
+Cake  
+Pie  
+Cookie  
+Brownie  
+Chocolate  
+Candy  
+Ice Cream  
+Yogurt  
+Cheese  
+Milk  
+Butter  
+Cream  
+Eggs  
+Chicken  
+Beef  
+Pork  
+Lamb  
+Turkey  
+Fish  
+Salmon  
+Tuna  
+Shrimp  
+Crab  
+Lobster  
+Oyster  
+Mussels  
+Clams  
+Sushi  
+Sausage  
+Bacon  
+Ham  
+Meatball  
+Steak  
+Roast  
+Barbecue  
+Fried Chicken  
+Grilled Cheese  
+Mashed Potatoes  
+French Fries  
+Chips  
+Popcorn  
+Salad  
+Soup  
+Stew  
+Curry  
+Stir Fry  
+Omelette  
+Scrambled Eggs  
+Boiled Eggs  
+Poached Eggs  
+Pasta Salad  
+Coleslaw  
+Guacamole  
+Hummus  
+Salsa  
+Ketchup  
+Mayonnaise  
+Mustard  
+Soy Sauce  
+Hot Sauce  
+Vinegar  
+Olive Oil  
+Peanut Butter  
+Jam  
+Honey  
+Sugar  
+Salt  
+Pepper  
+Cinnamon  
+Nutmeg  
+Clove  
+Cardamom  
+Cumin  
+Turmeric  
+Paprika  
+Chili Powder  
+Coriander  
+Vanilla  
+Cocoa  
+Coffee  
+Tea  
+Green Tea  
+Black Tea  
+Herbal Tea  
+Milkshake  
+Smoothie  
+Lemonade  
+Orange Juice  
+Apple Juice  
+Grape Juice  
+Coconut Water  
+Soda  
+Cola  
+Energy Drink  
+Iced Tea  
+Hot Chocolate  
+Beer  
+Wine  
+Champagne  
+Whiskey  
+Vodka  
+Rum  
+Gin  
+Cocktail  
+Mocktail  
+Espresso  
+Latte  
+Cappuccino  
+Americano  
+Mocha  
+Matcha  
+Bubble Tea  
+Protein Shake
+Food and drink bring people together.  
+I love trying new cuisines from different cultures.  
+Breakfast is the most important meal of the day.  
+She baked a delicious cake for the party.  
+He prefers savory snacks over sweet ones.  
+They ordered pizza for dinner last night.  
+Coffee is my go-to drink in the morning.  
+Tea is a comforting drink on a cold day.  
+Fresh fruits are a healthy snack option.  
+She’s a vegetarian and doesn’t eat meat.  
+He’s allergic to nuts, so he avoids them.  
+They grow their own vegetables in the garden.  
+The restaurant serves the best sushi in town.  
+I can’t resist a warm, gooey chocolate chip cookie.  
+He grilled steaks for the family barbecue.  
+She made a refreshing lemonade for the summer picnic.  
+They enjoyed a traditional Thanksgiving feast.  
+I love the smell of freshly baked bread.  
+He’s a fan of spicy food and adds chili to everything.  
+She’s trying to cut down on sugar in her diet.  
+They shared a bottle of wine over dinner.  
+I always crave something sweet after a meal.  
+He’s a coffee connoisseur and roasts his own beans.  
+She’s learning to cook Italian dishes from scratch.  
+They ordered takeout because they were too tired to cook.  
+I love the crunch of fresh vegetables in a salad.  
+He’s a fan of craft beer and enjoys trying new breweries.  
+She made a hearty soup to warm everyone up.  
+They celebrated with a glass of champagne.  
+I can’t start my day without a bowl of cereal.  
+He’s a picky eater and only likes a few foods.  
+She’s experimenting with vegan recipes.  
+They had a picnic in the park with sandwiches and fruit.  
+I love the combination of sweet and salty flavors.  
+He’s a fan of street food and loves trying local dishes.  
+She’s hosting a dinner party this weekend.  
+They’re making homemade ice cream for dessert.  
+I enjoy a glass of orange juice with my breakfast.  
+He’s a fan of barbecue and loves smoked meats.  
+She’s baking cookies for the school bake sale.  
+They’re trying a new diet to improve their health.  
+I love the aroma of herbs and spices in cooking.  
+He’s a fan of seafood and loves sushi and oysters.  
+She’s making a smoothie with fresh berries and yogurt.  
+They’re having a potluck where everyone brings a dish.  
+I can’t resist the smell of popcorn at the movies.  
+He’s a fan of fine dining and enjoys gourmet meals.  
+She’s making a traditional dish from her home country.  
+They’re having a barbecue with burgers and hot dogs.  
+I love the taste of homemade jam on toast.  
+He’s a fan of spicy curries and bold flavors.  
+She’s making a fruit salad for a light dessert.  
+They’re trying a new restaurant downtown tonight.  
+I enjoy a cup of hot chocolate on a winter evening.  
+He’s a fan of comfort food like mac and cheese.  
+She’s making a stir-fry with fresh vegetables.  
+They’re having a wine-tasting party this weekend.  
+I love the taste of fresh herbs in a homemade dish.  
+He’s a fan of exotic fruits like dragon fruit and mango.  
+She’s making a batch of homemade pasta sauce.  
+They’re having a brunch with pancakes and eggs.  
+I enjoy a crisp apple as a healthy snack.  
+He’s a fan of spicy wings and buffalo sauce.  
+She’s making a cheesecake for her friend’s birthday.  
+They’re trying a new recipe they found online.  
+I love the smell of garlic and onions cooking.  
+He’s a fan of hearty stews and casseroles.  
+She’s making a refreshing iced tea for the summer.  
+They’re having a fondue night with cheese and chocolate.  
+I enjoy a slice of pie with a scoop of ice cream.  
+He’s a fan of sourdough bread and makes his own.  
+She’s making a colorful fruit platter for the party.  
+They’re trying a new smoothie recipe for breakfast.  
+I love the taste of fresh seafood by the ocean.  
+He’s a fan of spicy tacos and Mexican cuisine.  
+She’s making a batch of homemade granola bars.  
+They’re having a barbecue with ribs and corn on the cob.  
+I enjoy a glass of iced coffee on a hot day.  
+He’s a fan of rich desserts like tiramisu and cheesecake.  
+She’s making a vegetable stir-fry for a quick dinner.  
+They’re trying a new cocktail recipe for the party.  
+I love the taste of freshly squeezed orange juice.  
+He’s a fan of hearty breakfasts with eggs and bacon.  
+She’s making a batch of homemade soup for the week.  
+They’re having a picnic with sandwiches and chips.  
+I enjoy a slice of warm bread with butter.  
+He’s a fan of spicy noodles and Asian cuisine.  
+She’s making a fruit tart for dessert tonight.  
+They’re trying a new coffee blend from a local roaster.  
+I love the taste of fresh herbs in a summer salad.  
+He’s a fan of grilled vegetables and kebabs.  
+She’s making a batch of homemade hummus for snacks.  
+They’re having a barbecue with grilled chicken and salads.  
+I enjoy a glass of sparkling water with a slice of lemon.  
+He’s a fan of rich, creamy desserts like panna cotta.  
+She’s making a batch of homemade salsa for the party.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, seasonal fruits.  
+He’s a fan of spicy chili and loves making it from scratch.  
+She’s making a batch of homemade muffins for breakfast.  
+They’re having a barbecue with grilled fish and vegetables.  
+I enjoy a cup of herbal tea before bed.  
+He’s a fan of hearty soups and stews in the winter.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for the holidays.  
+They’re having a barbecue with grilled steak and potatoes.  
+I enjoy a glass of red wine with dinner.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade bread for the week.  
+They’re trying a new recipe for homemade ice cream.  
+I love the taste of fresh, homemade meals.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola for snacks.  
+They’re having a barbecue with grilled chicken and corn.  
+I enjoy a cup of tea with a slice of cake.  
+He’s a fan of hearty, comforting meals.  
+She’s making a batch of homemade soup for lunch.  
+They’re trying a new recipe for homemade pizza.  
+I love the taste of fresh, homemade bread.  
+He’s a fan of spicy, flavorful curries.  
+She’s making a batch of homemade cookies for dessert.  
+They’re having a barbecue with grilled steak and vegetables.  
+I enjoy a glass of wine with a cheese platter.  
+He’s a fan of rich, indulgent desserts.  
+She’s making a batch of homemade jam for gifts.  
+They’re trying a new recipe for homemade pasta.  
+I love the taste of fresh, locally grown produce.  
+He’s a fan of spicy, bold flavors in his food.  
+She’s making a batch of homemade granola for breakfast.  
+They’re having a barbecue with grilled vegetables and tofu.  
+I enjoy a cup of coffee with a splash of cream.  
+He’s a fan of hearty, filling meals.  
+She’s making a batch of homemade soup for the family.  
+They’re trying a new recipe for homemade sushi.  
+I love the taste of fresh, seasonal ingredients.  
+He’s a fan of spicy, flavorful dishes.  
+She’s making a batch of homemade pasta for dinner.  
+They’re having a barbecue with grilled shrimp and salads.  
+I enjoy a glass of white wine with seafood.  
+He’s a fan of rich, creamy sauces.  
+She’s making a batch of homemade jam for toast.  
+They’re trying a new recipe for homemade bread.  
+I love the taste of fresh, homemade desserts.  
+He’s a fan of spicy, aromatic dishes.  
+She’s making a batch of homemade granola

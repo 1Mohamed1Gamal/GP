@@ -1,0 +1,468 @@
+Boy
+Girl
+Man
+Woman
+Child
+Baby
+Friend
+Family
+People
+Brother
+Sister
+Mother
+Father
+Son
+Daughter
+Husband
+Wife
+Grandma
+Grandpa
+Uncle
+Aunt
+Cousin
+Teacher
+Student
+Doctor
+Nurse
+Police Officer
+Firefighter
+Farmer
+Worker
+Chef
+Driver
+Artist
+Singer
+Dancer
+Actor
+Painter
+Writer
+Engineer
+Scientist
+Athlete
+Coach
+Player
+Soldier
+Boss
+Employee
+Customer
+Tourist
+Neighbor
+Citizen
+Stranger
+Visitor
+Leader
+Mayor
+President
+King
+Queen
+Prince
+Princess
+Gentleman
+Lady
+Baby
+Toddler
+Teenager
+Adult
+Senior
+Twins
+Bride
+Groom
+Parent
+Guardian
+Classmate
+Roommate
+Teammate
+Rival
+Fan
+Volunteer
+Patient
+Victim
+Witness
+Host
+Guest
+Speaker
+Listener
+Voter
+Citizen
+Resident
+Immigrant
+Foreigner
+Native
+Local
+Refugee
+Survivor
+Partner
+Companion
+Acquaintance
+Colleague
+Mentor
+Apprentice
+Rival
+Opponent
+Ally
+Enemy
+Genius
+Talent
+Star
+Hero
+Villain
+Rebel
+Activist
+Explorer
+Inventor
+Thinker
+Dreamer
+Optimist
+Pessimist
+Realist
+Liar
+Honest
+Shy
+Brave
+Kind
+Rude
+Polite
+Impolite
+Friendly
+Unfriendly
+Quiet
+Loud
+Smart
+Foolish
+Wise
+Silly
+Lazy
+Hardworking
+Rich
+Poor
+Generous
+Greedy
+Humble
+Proud
+Confident
+Anxious
+Strong
+Weak
+Fit
+Unfit
+Tall
+Short
+Fat
+Thin
+Young
+Old
+Middle-aged
+Pretty
+Handsome
+Ugly
+Ordinary
+Charming
+Charismatic
+Famous
+Unknown
+Popular
+Unpopular
+Powerful
+Helpless
+Serious
+Funny
+Talkative
+Silent
+Curious
+Bored
+Excited
+Nervous
+Tired
+Energetic
+Angry
+Calm
+Happy
+Sad
+Hopeful
+Hopeless
+Lucky
+Unlucky
+Patient
+Impatient
+Responsible
+Irresponsible
+Reliable
+Unreliable
+Honest
+Dishonest
+Careful
+Careless
+Grateful
+Ungrateful
+Social
+Anti-social
+Introvert
+Extrovert
+Leader
+Follower
+Thinker
+Doer
+Planner
+Dreamer
+Builder
+Destroyer
+Believer
+Skeptic
+Traditional
+Modern
+Conservative
+Liberal
+Independent
+Dependent
+Courageous
+Cowardly
+Generous
+Selfish
+Optimistic
+Pessimistic
+Open-minded
+Narrow-minded
+Practical
+Idealistic
+Logical
+Emotional
+Outgoing
+Reserved
+Gentle
+Aggressive
+Bold
+Cautious
+Adventurous
+Timid
+Affectionate
+Distant
+Compassionate
+Cold
+Loyal
+Disloyal
+Forgiving
+Vengeful
+Tolerant
+Intolerant
+Sensitive
+Insensitive
+Ambitious
+Lazy
+Hardworking
+Indifferent
+Creative
+Unimaginative
+Practical
+Theoretical
+Artistic
+Scientific
+Logical
+Irrational
+Analytical
+Intuitive
+Honest
+Deceptive
+Truthful
+Lying
+Responsible
+Reckless
+Confident
+Insecure
+Friendly
+Hostile
+Supportive
+Dismissive
+Patient
+Restless
+Easygoing
+Stubborn
+Flexible
+Rigid
+Adaptable
+Inflexible
+Understanding
+Judgmental
+Respectful
+Disrespectful
+Empathetic
+Apathetic
+Assertive
+Passive
+Enthusiastic
+Apathetic
+Optimistic
+Cynical
+Passionate
+Indifferent
+Charismatic
+Unremarkable
+Inspiring
+Uninspiring
+Capable
+Incompetent
+Skilled
+Unskilled
+Talented
+Untalented
+Diligent
+Careless
+Perceptive
+Oblivious
+Witty
+Dull
+Observant
+Unobservant
+Determined
+Weak-willed
+Courageous
+Fearful
+Sincere
+Fake
+Intellectual
+Superficial
+Altruistic
+Egoistic
+Modest
+Arrogant
+Spontaneous
+Predictable
+Expressive
+Reserved
+Gregarious
+Solitary
+Humorous
+Humorless
+Humble
+Boastful
+Sensible
+Foolhardy
+Cautious
+Reckless
+Wise
+Naïve
+Self-aware
+Clueless
+Practical
+Impractical
+Thoughtful
+Thoughtless
+Cooperative
+Uncooperative
+Democratic
+Authoritarian
+Idealistic
+Pragmatic
+Innovative
+Traditional
+Resourceful
+Dependent
+Ethical
+Unethical
+Kind-hearted
+Cruel
+Considerate
+Inconsiderate
+Noble
+Dishonorable
+Rational
+Irrational
+Sensible
+Senseless
+Self-disciplined
+Undisciplined
+Perfectionist
+Carefree
+Persistent
+Fickle
+Visionary
+Shortsighted
+Self-sufficient
+Needy
+Meticulous
+Sloppy
+Ethical
+Corrupt
+Principled
+Unprincipled
+People come in all shapes and sizes.  
+She has a warm smile that lights up the room.  
+He’s the kind of person who always knows what to say.  
+They’ve been friends since childhood.  
+Some people are naturally good at sports.  
+She’s incredibly talented at playing the piano.  
+He’s always the first to help others in need.  
+People often underestimate her because she’s quiet.  
+He’s a visionary who thinks outside the box.  
+They’re the type of people who make you feel welcome.  
+She’s a perfectionist who pays attention to every detail.  
+He’s a risk-taker who loves adventure.  
+People say she has a heart of gold.  
+He’s a natural leader who inspires others.  
+They’re the life of the party wherever they go.  
+She’s a deep thinker who enjoys philosophical discussions.  
+He’s a hard worker who never gives up.  
+People admire her for her resilience.  
+He’s a creative soul who loves to paint.  
+They’re the kind of people who always keep their promises.  
+She’s a free spirit who loves to travel.  
+He’s a problem-solver who can fix anything.  
+People often turn to him for advice.  
+She’s a bookworm who reads everything she can find.  
+He’s a charmer who can talk his way out of anything.  
+They’re the glue that holds the group together.  
+She’s a dreamer who believes in the impossible.  
+He’s a realist who keeps everyone grounded.  
+People say she has a magnetic personality.  
+He’s a comedian who can make anyone laugh.  
+They’re the type of people who always see the good in others.  
+She’s a go-getter who never settles for less.  
+He’s a listener who makes you feel heard.  
+People respect her for her honesty.  
+He’s a mentor who guides others to success.  
+They’re the kind of people who make the world a better place.  
+She’s a fighter who never backs down from a challenge.  
+He’s a romantic who believes in true love.  
+People admire his dedication to his craft.  
+She’s a trendsetter who always knows what’s in style.  
+He’s a strategist who plans everything meticulously.  
+They’re the type of people who make you feel like family.  
+She’s a night owl who stays up late working on her projects.  
+He’s an early bird who starts his day at sunrise.  
+People say she has a way with words.  
+He’s a protector who always looks out for others.  
+They’re the kind of people who leave a lasting impression.  
+She’s a nurturer who takes care of everyone around her.  
+He’s a trailblazer who isn’t afraid to take the road less traveled.  
+People admire her for her courage.  
+He’s a teacher who loves sharing his knowledge.  
+They’re the type of people who make you believe in yourself.  
+She’s a realist who doesn’t sugarcoat things.  
+He’s a dreamer who inspires others to aim high.  
+People say he has a calming presence.  
+She’s a motivator who pushes others to be their best.  
+He’s a storyteller who captivates everyone’s attention.  
+They’re the kind of people who make you feel appreciated.  
+She’s a problem-solver who always finds a way.  
+He’s a visionary who sees opportunities where others see obstacles.  
+People admire her for her kindness.  
+He’s a protector who always stands up for what’s right.  
+They’re the type of people who make you feel safe.  
+She’s a go-getter who never gives up on her dreams.  
+He’s a listener who understands without judgment.  
+People say she has a way of making everyone feel special.  
+He’s a leader who leads by example.  
+They’re the kind of people who make you feel inspired.  
+She’s a realist who keeps things in perspective.  
+He’s a dreamer who believes in the power of imagination.  
+People admire his ability to stay calm under pressure.  
+She’s a motivator who encourages others to keep going.  
+He’s a storyteller who brings characters to life.  
+They’re the type of people who make you feel like anything is possible.  
+She’s a problem-solver who thinks outside the box.  
+He’s a visionary who sees the bigger picture.  
+People admire her for her determination.  
+He’s a protector who always has your back.  
+They’re the kind of people who make you feel loved.  
+She’s a go-getter who chases her dreams relentlessly.  
+He’s a listener who makes you feel understood.  
+People say she has a way of making the ordinary extraordinary.
